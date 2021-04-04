@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:id="@+id/drawer"
     android:layout_gravity="start"
-    android:background="#E6579FA8"
+    android:background="#00cec9"
     android:orientation="vertical">
 
     <Button
@@ -24,7 +24,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#AF6969"
+        android:background="#a29bfe"
         android:layout_margin="10dp"
         android:orientation="vertical">
 
