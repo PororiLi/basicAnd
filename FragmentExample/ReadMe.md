@@ -1,4 +1,4 @@
-Screenshot*bold*
+*Screenshot*
 
 Main.xml
 <img src="https://user-images.githubusercontent.com/46364839/113974990-cb0ca380-9879-11eb-949f-772749b32201.jpg" width="250" height="500">
