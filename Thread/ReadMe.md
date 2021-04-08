@@ -1,3 +1,5 @@
+If thread started, Toast message "porori" each 5seconds
+
 *Screenshot*
 
 thread start
