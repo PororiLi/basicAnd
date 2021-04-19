@@ -1,6 +1,6 @@
 #Thread
 
-thread exaple project. 
+thread example project. 
 If thread started, Toast message "porori" each 5seconds
 
 
